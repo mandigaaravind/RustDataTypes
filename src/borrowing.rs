@@ -1,4 +1,4 @@
-fn main() {
+fn run() {
    let mut a=String::from("hello");
    let b=&a;
    let c=&a;
